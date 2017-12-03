@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.project.angel.notepad.MainActivity">
+
+    <item android:id="@+id/showNote" android:title="@string/showNote"/>
+    <item android:id="@+id/editNote" android:title="@string/editNote"/>
+    <item android:id="@+id/removeNote" android:title="@string/removeNote"/>
+</menu>

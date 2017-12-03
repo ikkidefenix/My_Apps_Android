@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="oneNote">Detalles</string>
+    <string name="CtxMenuHeader">Elegir accion</string>
+    <string name="updateNoteButton">Actualizar nota</string>
+    <string name="validation">Favor complete el título y/o contenido</string>
+    <string name="mainHeader">Notas</string>
+    <string name="addNoteButton">Crear nota</string>
+    <string name="noteTitle">Titulo</string>
+    <string name="titleHint">Escribe el titulo</string>
+    <string name="noteContent">Contenido</string>
+    <string name="saveNoteButton">Guardar nota</string>
+    <string name="showNote">Ver nota</string>
+    <string name="editNote">Modificar</string>
+    <string name="removeNote">Eliminar</string>
+</resources>
